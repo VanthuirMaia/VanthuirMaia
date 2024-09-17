@@ -1,3 +1,20 @@
+<p align=""> <img src="https://komarev.com/ghpvc/?username=kaiquebellmont&label=Profile%20views&color=0e75b6&style=flat" alt="kaiquebellmont" /> </p>
+<p>
+  <span>(Click Here to my socials)</span>
+
+  <a href="https://www.linkedin.com/in/vanthuir-maia-47767810b/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanthuirmaia" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.instagram.com/vanthuirmaia/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanthuirmaia" height="30" width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/@vanthuirmaia9445" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vanthuirmaia" height="30" width="40" />
+  </a>
+</p>
+
 ## Hi there 👋
 
 ### Eu sou Vanthuir Maia!
@@ -10,9 +27,17 @@ Sou desenvolvedor Full Stack com foco em backend, apaixonado por construir APIs 
 
 📫 **Contato**:  
 - **Email**: [vanmaiasf@gmail.com](mailto:vanmaiasf@gmail.com) | [vanthuir.dev@gmail.com](mailto:vanthuir.dev@gmail.com)  
-- **LinkedIn**: [vanthuir-maia](https://www.linkedin.com/in/vanthuir-maia-47767810b/)  
 
 ---
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaiqueBellmont&theme=dracula" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=cobalt&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" />
+  </a> 
+</p>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=VanthuirMaia&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
@@ -20,6 +45,14 @@ Sou desenvolvedor Full Stack com foco em backend, apaixonado por construir APIs 
 </div>
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### Ferramentas e Tecnologias:
 <div> 
@@ -29,17 +62,6 @@ Sou desenvolvedor Full Stack com foco em backend, apaixonado por construir APIs 
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-
----
-
-### Onde me encontrar:
-<div>
-  <a href="https://www.youtube.com/@vanthuirmaia9445" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/vanthuirmaia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:vanmaiasf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:vanthuir.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanthuir-maia-47767810b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
