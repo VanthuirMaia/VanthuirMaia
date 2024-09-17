@@ -1,4 +1,4 @@
-<p align=""> <img src="https://komarev.com/ghpvc/?username=kaiquebellmont&label=Profile%20views&color=0e75b6&style=flat" alt="kaiquebellmont" /> </p>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=VanthuirMaia&label=Profile%20views&color=0e75b6&style=flat" alt="VanthuirMaia" /> </p>
 <p>
   <span>(Click Here to my socials)</span>
 
@@ -31,11 +31,11 @@ Sou desenvolvedor Full Stack com foco em backend, apaixonado por construir APIs 
 ---
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaiqueBellmont&theme=dracula" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VanthuirMaia&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=cobalt&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VanthuirMaia&theme=cobalt&column=5&margin-w=5&margin-h=25" alt="VanthuirMaia" />
   </a> 
 </p>
 
@@ -48,9 +48,9 @@ Sou desenvolvedor Full Stack com foco em backend, apaixonado por construir APIs 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VanthuirMaia/VanthuirMaia/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/VanthuirMaia/VanthuirMaia/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/VanthuirMaia/VanthuirMaia/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
