@@ -66,7 +66,7 @@ Sou desenvolvedor Full Stack com foco em backend, apaixonado por construir APIs 
 ---
 
 ### Troféus do GitHub:
-<p align="justify">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=VanthuirMaia&theme=cobalt&column=5&margin-w=5&margin-h=25" alt="Troféus do GitHub" />
   </a>
