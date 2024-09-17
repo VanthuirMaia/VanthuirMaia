@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 - Development FullStack
-- Estudando Django | JS | Postgress | React 
+- Python | Django | Django Rest Framwork | Flask | JS | Postgress | React 
 - Contato: vanmaiasf@gmail.com | vanthuir.dev@gmail.com
 
 ##
