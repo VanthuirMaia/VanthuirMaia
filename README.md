@@ -16,13 +16,13 @@
 
 ## Hi there 👋
 
-### Eu sou Vanthuir Maia!
+### I´m Vanthuir Maia!
 
-Sou desenvolvedor Full Stack com foco em backend, apaixonado por construir APIs escaláveis e eficientes. Atualmente, estou trabalhando com as seguintes tecnologias:
+Data Engineer com experiência em desenvolvimento backend, Especialista em Manipulação e Visualização de Dados, apaixonado por transformar dados em insights e construir soluções escaláveis. Atualmente, estou trabalhando com as seguintes tecnologias
 
-- **Linguagens e frameworks**: Python | Django | Django Rest Framework | Flask | JavaScript | React
-- **Bancos de dados**: PostgreSQL
-- **Outras habilidades**: Git | APIs REST | Bootstrap
+- **Linguagens e frameworks**: Python | SQL | Django | Django Rest Framework | Flask | JavaScript
+- **Bancos de dados**: PostgreSQL | MySQL | SQLite
+- **Outras habilidades**: Git | APIs REST | Bootstrap | Pandas | NumPy | Power BI | Tableau | Matplotlib
 
 📫 **Contato**:  
 - **Email**: [vanmaiasf@gmail.com](mailto:vanmaiasf@gmail.com) | [vanthuir.dev@gmail.com](mailto:vanthuir.dev@gmail.com)  
