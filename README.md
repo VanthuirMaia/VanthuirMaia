@@ -22,7 +22,7 @@ Data Engineer com experiência em desenvolvimento backend, Especialista em Manip
 
 - **Linguagens e frameworks**: Python | SQL | Django | Django Rest Framework | Flask | JavaScript
 - **Bancos de dados**: PostgreSQL | MySQL | SQLite
-- **Outras habilidades**: Git | APIs REST | Bootstrap | Pandas | NumPy | Power BI | Tableau | Matplotlib
+- **Outras habilidades**: Git | APIs REST | Bootstrap | Pandas | NumPy | Power BI | Matplotlib
 
 📫 **Contato**:  
 - **Email**: [vanmaiasf@gmail.com](mailto:vanmaiasf@gmail.com) | [vanthuir.dev@gmail.com](mailto:vanthuir.dev@gmail.com)  
