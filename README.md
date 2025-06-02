@@ -4,19 +4,17 @@
   <a href="https://www.linkedin.com/in/vanthuir-maia-47767810b/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <br>
   <a href="https://www.instagram.com/vanthuirmaia/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <br>
   <a href="https://www.youtube.com/@vanthuirmaia9445" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
-## Hi there 👋
+## Olá, seja bem vindo(a) 👋
 
-### I´m Vanthuir Maia!
+### Eu sou Vanthuir Maia!
 
 Analista | Engenheiro de dados com experiência em desenvolvimento backend, Especialista em Manipulação e Visualização de Dados, apaixonado por transformar dados em insights e construir soluções escaláveis. Atualmente, estou trabalhando com as seguintes tecnologias
 
