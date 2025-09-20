@@ -28,14 +28,29 @@ Transformo dados em **insights acionáveis** e **APIs/serviços** escaláveis, c
 
 ### 🛠️ Tech Stack
 
-**Linguagens & Frameworks**  
-`Python` · `SQL` · `Django` · `Django Rest Framework` · `Flask` · `FastAPI`
+**💻 Linguagens & Frameworks**  
+🐍 Python · 🐘 SQL · 🌐 HTML5 · 🎨 CSS3 · ⚡ JavaScript  
+🟩 Django · 🟦 Django Rest Framework · ☕ Flask · 🚀 FastAPI  
 
-**Bancos de Dados**  
-`PostgreSQL` · `MySQL` · `SQLite`
+**🗄️ Bancos de Dados & Data Engineering**  
+🐘 PostgreSQL · 🐬 MySQL · 🟦 SQLite  
+📊 Pandas · 🔢 NumPy · 📈 Matplotlib · 📊 Power BI  
+🐳 Docker · 🔗 APIs REST  
 
-**Ferramentas & Outras Skills**  
-`Git` · `APIs REST` · `Docker` · `Pandas` · `NumPy` · `Power BI` · `Matplotlib`
+**⚙️ Versionamento & DevOps**  
+🌱 Git & GitHub · 🛠️ GitHub Actions (básico) · 🐳 Docker  
+
+**🤖 Inteligência Artificial & ML (em andamento)**  
+🧠 Scikit-learn · 🤖 LLMs · 🔍 RAG · ⚡ N8N · 📚 LangChain  
+
+---
+
+📌 Além disso, tenho experiência com:  
+- Criação de **Dashboards** e relatórios de decisão (Power BI / Pandas)  
+- Construção de **APIs escaláveis** em Django REST & FastAPI  
+- Projetos acadêmicos em **Machine Learning** (árvores de decisão, regressão, classificação)  
+- Automação de processos e integrações low-code (n8n + APIs)  
+
 
 ---
 
