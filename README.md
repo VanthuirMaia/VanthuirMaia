@@ -1,104 +1,122 @@
 <p align="center">
-  <span>Click Here to My Socials:</span><br/>
+  <h2 align="center">🚀 Vanthuir Maia</h2>
+  <p align="center">Engenheiro de Dados • Backend Developer • IA & Automação</p>
 
-  <a href="https://www.linkedin.com/in/vanthuir-maia-47767810b/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/vanthuir-maia-47767810b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/vanthuirmaia/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/vanthuirmaia/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@vanthuirmaia9445" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  <a href="https://www.youtube.com/@vanthuirmaia9445" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
-## Olá, seja bem-vindo(a) 👋
+---
 
-### Eu sou **Vanthuir Maia**  
-📊 Engenheiro de Dados | Backend Developer | Pesquisando e construindo soluções em **IA, Dados e Automação**
+## 👋 Olá, seja bem-vindo(a)!
 
-- 🎓 **Mestrando em Engenharia da Computação (UPE)** — em andamento  
-- 🤖 **Residente em IA Generativa (UPE)** — foco em LLMs, RAG, agentes e avaliação de modelos  
-- 📚 **Especialização em Tomada de Decisão Baseada em Evidências (UFRPE)** — foco em dados para políticas públicas e LGPD  
-- 🚀 Co-founder da **MiRoute** (qualidade e logística do leite; dados para tomada de decisão)
+Sou **Vanthuir Maia**, apaixonado por **Dados, Backend e Inteligência Artificial**, criando soluções que transformam operações reais — desde automações empresariais até sistemas completos de gestão com IA integrada.
 
-Transformo dados em **insights acionáveis** e **APIs/serviços** escaláveis, com ênfase em boas práticas, documentação e métricas.
+🎓 **Mestrando em Engenharia da Computação — UPE**  
+🤖 **Residente em IA Generativa — UPE**  
+📘 **Especialização: Tomada de Decisão Baseada em Evidências — UFRPE**  
+🚀 **Co-founder da MiRoute — qualidade e logística do leite**  
+
+Atualmente construindo o **Gestto**, um sistema profissional de agendamentos, gestão financeira e automação via IA.
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-**💻 Linguagens & Frameworks**  
-🐍 Python · 🐘 SQL · 🌐 HTML5 · 🎨 CSS3 · ⚡ JavaScript  
-🟩 Django · 🟦 Django Rest Framework · ☕ Flask · 🚀 FastAPI  
+### 💻 Linguagens & Frameworks
+- **Python**, SQL, HTML5, CSS3, JavaScript  
+- **Django**, Django Rest Framework  
+- **Flask**, **FastAPI**
 
-**🗄️ Bancos de Dados & Data Engineering**  
-🐘 PostgreSQL · 🐬 MySQL · 🟦 SQLite  
-📊 Pandas · 🔢 NumPy · 📈 Matplotlib · 📊 Power BI  
-🐳 Docker · 🔗 APIs REST  
+### 🗄 Bancos & Data Engineering
+- PostgreSQL • SQLite • MySQL  
+- Pandas • NumPy • Matplotlib  
+- Power BI  
+- Docker • APIs REST
 
-**⚙️ Versionamento & DevOps**  
-🌱 Git & GitHub · 🛠️ GitHub Actions (básico) · 🐳 Docker  
+### 🤖 Inteligência Artificial
+- Scikit-learn • Pipelines ML  
+- LLMs • RAG • LangChain  
+- Automação com **n8n**
 
-**🤖 Inteligência Artificial & ML (em andamento)**  
-🧠 Scikit-learn · 🤖 LLMs · 🔍 RAG · ⚡ N8N · 📚 LangChain  
-
----
-
-📌 Além disso, tenho experiência com:  
-- Criação de **Dashboards** e relatórios de decisão (Power BI / Pandas)  
-- Construção de **APIs escaláveis** em Django REST & FastAPI  
-- Projetos acadêmicos em **Machine Learning** (árvores de decisão, regressão, classificação)  
-- Automação de processos e integrações low-code (n8n + APIs)  
-
+### ⚙ DevOps & Versionamento
+- Git & GitHub  
+- GitHub Actions (básico)  
+- Docker
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VanthuirMaia&theme=dracula" alt="GitHub Streak" /></a>
-</p>
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanthuirMaia&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanthuirMaia&layout=compact&theme=radical" alt="Top Langs" />
+
+  <!-- Streak -->
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VanthuirMaia&theme=dracula" height="180px" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <!-- Stats -->
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VanthuirMaia&show_icons=true&theme=radical" />
+
+  <!-- Top Languages -->
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanthuirMaia&layout=compact&theme=radical" />
+
 </p>
 
 ---
 
-### 🐍 Snake Contributions
+# 🐍 Snake Contributions
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg" alt="snake animation"/>
   </picture>
 </p>
 
 ---
 
-### 🏆 GitHub Troféus
+# 🏆 GitHub Trophy
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VanthuirMaia&theme=cobalt&column=5&margin-w=5&margin-h=25" alt="Troféus do GitHub" />
+  <a href="https://github-profile-trophy.vercel.app">
+    <img src="https://github-profile-trophy.vercel.app/?username=VanthuirMaia&theme=cobalt&column=5&margin-w=10&margin-h=15&no-frame=true" />
   </a>
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+# 📌 Projetos em Destaque
+
+### **Gestto — Sistema de agendamentos inteligente**
+- FullCalendar integrado  
+- Controle financeiro  
+- Multi-tenant  
+- Automação via IA + n8n  
+- Backend Django completo  
+
+*(Print no README em breve)*
+
+---
+
+# 🌐 Redes & Contato
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vanthuir-maia-47767810b/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/vanthuirmaia/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@vanthuirmaia9445" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
+  <a href="mailto:vanthuir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-vanthuir.dev%40gmail.com-red?style=for-the-badge"/></a>
 </p>
 
-📫 **Contato direto**  
-- [vanmaiasf@gmail.com](mailto:vanmaiasf@gmail.com)  
-- [vanthuir.dev@gmail.com](mailto:vanthuir.dev@gmail.com)
+---
+
+<p align="center"><strong>✨ Obrigado por visitar meu perfil! Sempre construindo, sempre aprendendo. ✨</strong></p>
