@@ -24,7 +24,7 @@ Sou **Vanthuir Maia**, especializado em **IA Generativa, RAG e Automação Intel
 🤖 **Residente em IA Generativa — Grupo Show Tecnologia/Omnilink**  
 📘 **Especialização: Tomada de Decisão Baseada em Evidências — UFRPE**  
 🚀 **Founder da AXIO/Gestto — Automação & IA para negócios | SaaS de agendamentos com clientes pagantes**  
-💼 **Co-founder do MiRoute — Sistema de avaliação da qualidade do leite**
+💼 **Co-founder da Startup MiRoute — Sistema de avaliação da qualidade do leite**
 
 Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-contexto, além de otimizar pipelines de dados em produção.
 
@@ -80,7 +80,7 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 ## 📈 Contribution Grid
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/VanthuirMaia" alt="Vanthuir's Github chart" />
+  <img src="https://ghchart.rshah.org/238636/VanthuirMaia" alt="Vanthuir's Github chart" />
 </div>
 
 ---
