@@ -65,12 +65,14 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanthuirMaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanthuirMaia&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/VanthuirMaia">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VanthuirMaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VanthuirMaia&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanthuirMaia&theme=dracula" alt="VanthuirMaia's streak"/>
+  <img src="https://streak-stats.demolab.com/?user=VanthuirMaia&theme=dracula" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -78,7 +80,7 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 ## 📈 Contribution Grid
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/VanthuirMaia" alt="Vanthuir's Github chart" />
+  <img src="https://ghchart.rshah.org/VanthuirMaia" alt="Vanthuir's Github chart" />
 </div>
 
 ---
