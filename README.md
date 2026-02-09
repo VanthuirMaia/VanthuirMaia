@@ -77,13 +77,20 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 
 ---
 
-## 📈 Contribution Grid
+# 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/VanthuirMaia?format=svg&dark=true&chart=calendar&flatten=1">
-    <img width="900" src="https://ssr-contributions-svg.vercel.app/_/VanthuirMaia?chart=calendar&flatten=1" alt="Contribution Grid">
-  </picture>
+  <!-- Streak -->
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VanthuirMaia&theme=dracula" height="180px" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Stats -->
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VanthuirMaia&show_icons=true&theme=radical" />
+  <!-- Top Languages -->
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanthuirMaia&layout=compact&theme=radical" />
 </p>
 
 ---
