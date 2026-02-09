@@ -80,7 +80,10 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 ## 📈 Contribution Grid
 
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/VanthuirMaia" alt="Contribution Grid" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/VanthuirMaia?format=svg&dark=true&chart=calendar&flatten=1">
+    <img width="900" src="https://ssr-contributions-svg.vercel.app/_/VanthuirMaia?chart=calendar&flatten=1" alt="Contribution Grid">
+  </picture>
 </p>
 
 ---
