@@ -72,10 +72,10 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanthuirMaia&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-frame=false" alt="VanthuirMaia's trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanthuirMaia&theme=dracula&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -87,6 +87,14 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VanthuirMaia&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -124,13 +132,6 @@ Sistema de automação com redução de 60% em custos operacionais. Agentes de I
 
 **📊 Data Engineer** | MiRoute  
 Arquitetura de dados para logística com APIs REST Django e ETL pipelines. Redução de 40% no tempo de processamento de rotas.
-
----
-
-## 📈 Estatísticas de Atividade
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
