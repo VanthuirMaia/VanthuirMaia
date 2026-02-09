@@ -80,7 +80,7 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 ## 📈 Contribution Grid
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanthuirMaia&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/VanthuirMaia" alt="Vanthuir's Github chart" />
 </div>
 
 ---
