@@ -77,15 +77,6 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <!-- Streak -->
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VanthuirMaia&theme=dracula" height="180px" />
-  </a>
-</p>
-
 <p align="center">
   <!-- Stats -->
   <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VanthuirMaia&show_icons=true&theme=radical" />
