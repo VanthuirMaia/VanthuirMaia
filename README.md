@@ -77,14 +77,6 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 
 ---
 
-## 📈 Contribution Grid
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/VanthuirMaia" alt="Contribution Grid" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
