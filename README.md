@@ -23,8 +23,8 @@ Sou **Vanthuir Maia**, especializado em **IA Generativa, RAG e Automação Intel
 🎓 **Mestrando em Engenharia da Computação — UPE**  
 🤖 **Residente em IA Generativa — Grupo Show Tecnologia/Omnilink**  
 📘 **Especialização: Tomada de Decisão Baseada em Evidências — UFRPE**  
-🚀 **Founder da AXIO — Automação & IA para negócios**  
-💼 **Co-founder do Gestto — SaaS de agendamentos com clientes pagantes**
+🚀 **Founder da AXIO/Gestto — Automação & IA para negócios | SaaS de agendamentos com clientes pagantes**  
+💼 **Co-founder do MiRoute — Sistema de avaliação da qualidade do leite**
 
 Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-contexto, além de otimizar pipelines de dados em produção.
 
@@ -44,12 +44,15 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 📊 Data Engineering
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ⚙️ DevOps & Automação
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -72,10 +75,10 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
 
 ---
 
-## 📈 Gráfico de Contribuições
+## 📈 Contribution Grid
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanthuirMaia&theme=dracula&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/409ba5/VanthuirMaia" alt="Vanthuir's Github chart" />
 </div>
 
 ---
@@ -87,14 +90,6 @@ Atualmente desenvolvendo sistemas de BI conversacional com NLP e agentes multi-c
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanthuirMaia&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
