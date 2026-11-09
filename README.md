@@ -164,12 +164,6 @@ Professor da Educação Profissional e Coordenador Escola-Empresa na ETE Governa
   <img src="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições no GitHub"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VanthuirMaia/VanthuirMaia/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 <div align="center">
